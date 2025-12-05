@@ -3557,4 +3557,12 @@ body.absolute_header .breadcrumb_area {
 	right: auto;
 	left: 0;
 }
+
+.story_content h2 {
+  font-family: var(--tj-ff-heading);
+  font-weight: var(--tj-fw-bold);
+  line-height: 1.2;
+  color: var(--tj-black);
+  margin-bottom: 15px;
+}
 /* END: Breadcrumb Area */
